@@ -1,0 +1,12 @@
+matplotlib
+numpy
+opencv-python
+pillow
+scikit-image
+scikit-learn
+torch
+torchvision
+gradio==4.44
+onnxruntime
+rasterio
+gradio_imageslider
