@@ -1,6 +1,9 @@
 # root_analysis
 AI tool for root segmentation and analysis in tropical grasses
 
+[![Root Analysis Web App Screenshot](./res/webapp.png)](https://huggingface.co/spaces/anfruizhu/root_analysis)
+
+
 ## Overview
 
 The **root_analysis** is the initial version of an AI-driven application for segmenting and analyzing root morphology in underground minirhizotron non-destructive root images of tropical grasses. It is designed to provide accurate and efficient root analysis for researchers. This tool is available as a Gradio web application on Hugging Face, with options for local execution.
